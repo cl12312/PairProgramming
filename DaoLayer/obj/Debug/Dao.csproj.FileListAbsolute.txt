@@ -1,0 +1,11 @@
+C:\Users\chen123\Desktop\feng\WinformControlUse\DaoLayer\bin\Debug\DaoLayer.dll
+C:\Users\chen123\Desktop\feng\WinformControlUse\DaoLayer\bin\Debug\DaoLayer.pdb
+C:\Users\chen123\Desktop\feng\WinformControlUse\DaoLayer\bin\Debug\DataBase.dll
+C:\Users\chen123\Desktop\feng\WinformControlUse\DaoLayer\bin\Debug\Entity.dll
+C:\Users\chen123\Desktop\feng\WinformControlUse\DaoLayer\bin\Debug\DataBase.pdb
+C:\Users\chen123\Desktop\feng\WinformControlUse\DaoLayer\bin\Debug\Entity.pdb
+C:\Users\chen123\Desktop\feng\WinformControlUse\DaoLayer\obj\Debug\Dao.csprojAssemblyReference.cache
+C:\Users\chen123\Desktop\feng\WinformControlUse\DaoLayer\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\chen123\Desktop\feng\WinformControlUse\DaoLayer\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\chen123\Desktop\feng\WinformControlUse\DaoLayer\obj\Debug\DaoLayer.dll
+C:\Users\chen123\Desktop\feng\WinformControlUse\DaoLayer\obj\Debug\DaoLayer.pdb

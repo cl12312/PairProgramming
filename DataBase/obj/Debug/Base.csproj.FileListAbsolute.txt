@@ -1,0 +1,9 @@
+C:\Users\chen123\Desktop\feng\WinformControlUse\DataBase\bin\Debug\DataBase.dll
+C:\Users\chen123\Desktop\feng\WinformControlUse\DataBase\bin\Debug\DataBase.pdb
+C:\Users\chen123\Desktop\feng\WinformControlUse\DataBase\bin\Debug\Entity.dll
+C:\Users\chen123\Desktop\feng\WinformControlUse\DataBase\bin\Debug\Entity.pdb
+C:\Users\chen123\Desktop\feng\WinformControlUse\DataBase\obj\Debug\Base.csproj.CoreCompileInputs.cache
+C:\Users\chen123\Desktop\feng\WinformControlUse\DataBase\obj\Debug\Base.csproj.CopyComplete
+C:\Users\chen123\Desktop\feng\WinformControlUse\DataBase\obj\Debug\DataBase.dll
+C:\Users\chen123\Desktop\feng\WinformControlUse\DataBase\obj\Debug\DataBase.pdb
+C:\Users\chen123\Desktop\feng\WinformControlUse\DataBase\obj\Debug\Base.csprojAssemblyReference.cache

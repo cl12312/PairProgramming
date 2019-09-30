@@ -1,0 +1,9 @@
+C:\Users\chen123\Desktop\feng\WinformControlUse\WinformControlUse\obj\x86\Debug\Control.csprojAssemblyReference.cache
+C:\Users\chen123\Desktop\feng\WinformControlUse\WinformControlUse\obj\x86\Debug\WinformControlUse.welcome.resources
+C:\Users\chen123\Desktop\feng\WinformControlUse\WinformControlUse\obj\x86\Debug\WinformControlUse.game.resources
+C:\Users\chen123\Desktop\feng\WinformControlUse\WinformControlUse\obj\x86\Debug\WinformControlUse.Properties.Resources.resources
+C:\Users\chen123\Desktop\feng\WinformControlUse\WinformControlUse\obj\x86\Debug\WinformControlUse.login.resources
+C:\Users\chen123\Desktop\feng\WinformControlUse\WinformControlUse\obj\x86\Debug\Control.csproj.GenerateResource.cache
+C:\Users\chen123\Desktop\feng\WinformControlUse\WinformControlUse\obj\x86\Debug\Control.csproj.CoreCompileInputs.cache
+C:\Users\chen123\Desktop\feng\WinformControlUse\WinformControlUse\obj\x86\Debug\WinformControlUse.exe
+C:\Users\chen123\Desktop\feng\WinformControlUse\WinformControlUse\obj\x86\Debug\WinformControlUse.pdb
